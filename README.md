@@ -5,7 +5,7 @@ Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri 
 Walaupun telah menjadi menjadi perusahaan yang cukup besar, Jaya Jaya Maju masih cukup kesulitan dalam mengelola karyawan. Hal ini berimbas tingginya attrition rate (rasio jumlah karyawan yang keluar dengan total karyawan keseluruhan) hingga lebih dari 10%.
 
 ## Permasalahan Bisnis ##
-Departement HR Kesulitan dalam mengawasi dan melakukan identikasi faktor penyebab attrition sehingga tingkat attrition mancapai 10$. Sehingga menjadi masalah untuk perusahaan karena menggangu produktivitas perusahaan.
+Departement HR Kesulitan dalam mengawasi dan melakukan identikasi faktor penyebab attrition sehingga tingkat attrition mancapai 10%. Sehingga menjadi masalah untuk perusahaan karena menggangu produktivitas perusahaan.
 
 ## Cakupan Proyek ##
 - Membuat visualisasi dashboard HR yang berfokus pada:
@@ -37,9 +37,10 @@ Setelah melakukan pembuatan dashboard dan membuat model machine learning dapat d
 - Berdasarkan hasil model machine learning yang dibantu dengan analisis SHAP summary plot menunjukkan bahwa OverTime, MonthlyIncome, MartialStatus, dan Age adalah fitur terpenting dalam memprediksi attrition. Karyawan dengan jam lembur tinggi dan pendapatan rendah cenderung memiliki attrition rate yang tinggi. Analisis SHAP summary plot dapat dilihat pada gambar di bawah:
 ![image](https://github.com/user-attachments/assets/1b35b0c6-0037-4495-9eaa-095b7d93b0bc)
 
-
 ### Rekomendasi Action Items (Optional) ###
-Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
-
-action item 1
-action item 2
+Setelah membuat dashboard dan machine learning berikut beberapa rekomendasi action untuk perusahaan agar menyelesaikan permasalahan tingginya attrition:
+ 1. Meningkatkan kesejahteraan karyawan khususnya departemen Research & Development karena departemen ini memiliki tingkat attrition tertinggi.
+ 2. Melakukan survei lebih dalam kepada karyawan yang memiliki kepuasan yang rendah terhadap lingkungan kerja. Agar mengetahui sebab mereka memberikan rating rendah.
+ 3. Memberikan gaji yang sepadan terhadap karyawan yang sering mendapatkan jadwal lembur atau over time.
+ 4. Memberikan perhatian khusus kepada karyawan yang berusia 25-34 untuk mengurangi attrition karena kelompok ini termasuk kelompok paling aktif mencari peluang karir baru.
+ 5. Mempersiapkan pelatihan ulang kepada semua karyawan di departemen karena karyawan yang memiliki latar belakang pendidikan Life Sciences memiliki tingkat attrition tertinggi dan juga dapat menjangkau karyawan dengan latar belakang pendidikan yang lain.
